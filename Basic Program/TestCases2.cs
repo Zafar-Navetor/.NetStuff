@@ -13,5 +13,11 @@ namespace Basic_Program
             Username = "Test";
             Password = "ABC";
         }
+
+        public void UserName(String FirstName, String LastName)
+        {
+            FirstName = "ABC";
+            LastName = "XYZ";
+        }
     }
 }
