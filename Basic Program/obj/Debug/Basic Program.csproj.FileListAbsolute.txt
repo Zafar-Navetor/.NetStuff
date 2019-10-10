@@ -5,3 +5,10 @@ C:\Users\zafar.ahmad\source\repos\Basic Program\Basic Program\obj\Debug\Basic Pr
 C:\Users\zafar.ahmad\source\repos\Basic Program\Basic Program\obj\Debug\Basic Program.csproj.CoreCompileInputs.cache
 C:\Users\zafar.ahmad\source\repos\Basic Program\Basic Program\obj\Debug\Basic Program.exe
 C:\Users\zafar.ahmad\source\repos\Basic Program\Basic Program\obj\Debug\Basic Program.pdb
+D:\.NetStuff\Basic Program\bin\Debug\Basic Program.exe.config
+D:\.NetStuff\Basic Program\bin\Debug\Basic Program.exe
+D:\.NetStuff\Basic Program\bin\Debug\Basic Program.pdb
+D:\.NetStuff\Basic Program\obj\Debug\Basic Program.csprojAssemblyReference.cache
+D:\.NetStuff\Basic Program\obj\Debug\Basic Program.csproj.CoreCompileInputs.cache
+D:\.NetStuff\Basic Program\obj\Debug\Basic Program.exe
+D:\.NetStuff\Basic Program\obj\Debug\Basic Program.pdb
